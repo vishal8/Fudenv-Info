@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fudenv Inc.</string>
+
+    <string name="desc">Lets reduce food waste one order at a time.</string>
+    <string name="phone">(516) 563-0358</string>
+    <string name="website">"www.fudenv.com</string>
+    <string name="address">123 Food St, Westbury, NY 11590</string>
+</resources>
